@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgb(117, 117, 117);
+    transition: 0.4s;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+h2{
+    color: rgb(119, 148, 148);
+}
